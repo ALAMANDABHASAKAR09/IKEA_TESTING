@@ -8,7 +8,7 @@ This project is designed to **test and validate IKEA’s online platform** using
 ✅ **Cross-Browser Testing** – Ensures consistent behavior across different browsers.  
 
 ## ⚙️ **Tech Stack**
-🔹 **Programming Language** – JavaScript / Python  
+🔹 **Programming Language** – JavaScript /  Playwright / GitHub Actions / Jenkins /  Allure Reports
 🔹 **Frameworks** – Playwright 
 🔹 **CI/CD** – GitHub Actions, Jenkins  
 🔹 **Reporting** – Allure, Extent Reports  
